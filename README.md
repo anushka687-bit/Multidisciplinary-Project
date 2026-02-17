@@ -6,11 +6,8 @@ This project is an AI-based real-time monitoring system designed to improve safe
 An intelligent computer vision–based surveillance system capable of detecting:
 
 🔪 Knife detection using YOLO
-
 👥 Group fight detection
-
 😴 Fatigue detection using OpenCV
-
 🚨 Fall detection using OpenCV
 
 This system combines deep learning and real-time video processing to enhance safety and automated monitoring.
